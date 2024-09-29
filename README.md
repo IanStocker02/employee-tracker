@@ -28,7 +28,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 
 ## Contributing
-n/a
+open to any contributions
 
 ## Tests
 npm test
